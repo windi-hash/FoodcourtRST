@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Foodcourt RST</string>
+    <string name="no_connection_title">Tidak ada koneksi internet</string>
+    <string name="no_connection_body">Kas Kantin butuh koneksi internet karena datanya tersimpan online di Google Sheets. Periksa koneksi kamu lalu coba lagi.</string>
+    <string name="retry">Coba Lagi</string>
+    <string name="downloading">Mengunduh %1$s…</string>
+    <string name="download_failed">Gagal mengunduh file</string>
+</resources>
